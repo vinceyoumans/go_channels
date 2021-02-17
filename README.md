@@ -3,9 +3,14 @@
 
 
 What is a null channel?
+
+
 Some Experiments
-Null channel is a way to turn a channel off
-They always block.
+
+
+Null channel is a way to turn a channel off. They always block.
+
+
 Alternative to a closed channel.
 
 ##  V01 - Channel.
